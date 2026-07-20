@@ -4,3 +4,7 @@
 2026-07-20 05:43:40,455 [INFO] [NEW MATCH] Graphic Designer at YouFibre — https://remoteOK.com/remote-jobs/remote-graphic-designer-youfibre-1134925
 2026-07-20 05:43:40,457 [INFO] [NEW MATCH] Python Developer at YO IT Consulting — https://remoteOK.com/remote-jobs/remote-python-developer-yo-it-consulting-1134923
 2026-07-20 05:43:40,458 [INFO] === Run complete: 2 new matches out of 2 filtered ===
+2026-07-20 10:50:27,240 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-07-20 10:50:27,992 [INFO] Fetched 100 total job listings from API
+2026-07-20 10:50:27,995 [INFO] Filtered to 2 jobs matching keywords ['python', 'django', 'fastapi']
+2026-07-20 10:50:27,996 [INFO] === Run complete: 0 new matches out of 2 filtered ===
