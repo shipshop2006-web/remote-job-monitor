@@ -8,3 +8,7 @@
 2026-07-20 10:50:27,992 [INFO] Fetched 100 total job listings from API
 2026-07-20 10:50:27,995 [INFO] Filtered to 2 jobs matching keywords ['python', 'django', 'fastapi']
 2026-07-20 10:50:27,996 [INFO] === Run complete: 0 new matches out of 2 filtered ===
+2026-07-21 10:24:09,436 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-07-21 10:24:10,233 [INFO] Fetched 99 total job listings from API
+2026-07-21 10:24:10,236 [INFO] Filtered to 0 jobs matching keywords ['python', 'django', 'fastapi']
+2026-07-21 10:24:10,237 [INFO] === Run complete: 0 new matches out of 0 filtered ===
