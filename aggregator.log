@@ -12,3 +12,8 @@
 2026-07-21 10:24:10,233 [INFO] Fetched 99 total job listings from API
 2026-07-21 10:24:10,236 [INFO] Filtered to 0 jobs matching keywords ['python', 'django', 'fastapi']
 2026-07-21 10:24:10,237 [INFO] === Run complete: 0 new matches out of 0 filtered ===
+2026-07-22 10:23:43,521 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-07-22 10:23:44,159 [INFO] Fetched 99 total job listings from API
+2026-07-22 10:23:44,162 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
+2026-07-22 10:23:44,162 [INFO] [NEW MATCH] Don't see an open position you'd like fill at DBOS, Inc. — https://remoteOK.com/remote-jobs/remote-dont-see-an-open-position-youd-like-fill-dbos-inc-1135102
+2026-07-22 10:23:44,165 [INFO] === Run complete: 1 new matches out of 1 filtered ===
