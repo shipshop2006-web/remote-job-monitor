@@ -17,3 +17,17 @@
 2026-07-22 10:23:44,162 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
 2026-07-22 10:23:44,162 [INFO] [NEW MATCH] Don't see an open position you'd like fill at DBOS, Inc. — https://remoteOK.com/remote-jobs/remote-dont-see-an-open-position-youd-like-fill-dbos-inc-1135102
 2026-07-22 10:23:44,165 [INFO] === Run complete: 1 new matches out of 1 filtered ===
+2026-07-23 10:21:21,319 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-07-23 10:21:21,734 [INFO] Fetched 99 total job listings from API
+2026-07-23 10:21:21,737 [INFO] Filtered to 11 jobs matching keywords ['python', 'django', 'fastapi']
+2026-07-23 10:21:21,738 [INFO] [NEW MATCH] DiseÃ±ador GrÃ¡fico Junior at workLATAM — https://remoteOK.com/remote-jobs/remote-disenador-grafico-junior-worklatam-1135195
+2026-07-23 10:21:21,740 [INFO] [NEW MATCH] Marketing Associate at Red Rover — https://remoteOK.com/remote-jobs/remote-marketing-associate-red-rover-1135198
+2026-07-23 10:21:21,741 [INFO] [NEW MATCH] Enterprise IT Support Specialist at Nymbus — https://remoteOK.com/remote-jobs/remote-enterprise-it-support-specialist-nymbus-1135194
+2026-07-23 10:21:21,742 [INFO] [NEW MATCH] Human Resources Generalist at Insight Global — https://remoteOK.com/remote-jobs/remote-human-resources-generalist-insight-global-1135202
+2026-07-23 10:21:21,743 [INFO] [NEW MATCH] Nurse Manager at Call 4 Health — https://remoteOK.com/remote-jobs/remote-nurse-manager-call-4-health-1135204
+2026-07-23 10:21:21,744 [INFO] [NEW MATCH] Mortgage Loan Processor at Granite Bank — https://remoteOK.com/remote-jobs/remote-mortgage-loan-processor-granite-bank-1135196
+2026-07-23 10:21:21,745 [INFO] [NEW MATCH] Strategy and Operations Lead at PatientIQ — https://remoteOK.com/remote-jobs/remote-strategy-and-operations-lead-patientiq-1135197
+2026-07-23 10:21:21,747 [INFO] [NEW MATCH] Senior Data Analyst at AB InBev — https://remoteOK.com/remote-jobs/remote-senior-data-analyst-ab-inbev-1135150
+2026-07-23 10:21:21,748 [INFO] [NEW MATCH] Freelance Designer at Abamedia — https://remoteOK.com/remote-jobs/remote-freelance-designer-abamedia-1135201
+2026-07-23 10:21:21,749 [INFO] [NEW MATCH] Receptionist at Evolve Psychiatry — https://remoteOK.com/remote-jobs/remote-receptionist-evolve-psychiatry-1135199
+2026-07-23 10:21:21,750 [INFO] === Run complete: 10 new matches out of 11 filtered ===
