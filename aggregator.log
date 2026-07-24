@@ -31,3 +31,12 @@
 2026-07-23 10:21:21,748 [INFO] [NEW MATCH] Freelance Designer at Abamedia — https://remoteOK.com/remote-jobs/remote-freelance-designer-abamedia-1135201
 2026-07-23 10:21:21,749 [INFO] [NEW MATCH] Receptionist at Evolve Psychiatry — https://remoteOK.com/remote-jobs/remote-receptionist-evolve-psychiatry-1135199
 2026-07-23 10:21:21,750 [INFO] === Run complete: 10 new matches out of 11 filtered ===
+2026-07-24 10:15:01,654 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-07-24 10:15:02,101 [INFO] Fetched 100 total job listings from API
+2026-07-24 10:15:02,105 [INFO] Filtered to 12 jobs matching keywords ['python', 'django', 'fastapi']
+2026-07-24 10:15:02,105 [INFO] [NEW MATCH] Head of People at MVP Ventures — https://remoteOK.com/remote-jobs/remote-head-of-people-mvp-ventures-1135203
+2026-07-24 10:15:02,107 [INFO] [NEW MATCH] Patient Access Surgical Scheduler I at Forefront Dermatology — https://remoteOK.com/remote-jobs/remote-patient-access-surgical-scheduler-i-forefront-dermatology-1135200
+2026-07-24 10:15:02,109 [INFO] [NEW MATCH] Junior Designer at ð© ð ð¥ ð§ ð¥ ð ð¢ — https://remoteOK.com/remote-jobs/remote-junior-designer-v-i-r-t-r-i-o-1135327
+2026-07-24 10:15:02,110 [INFO] [NEW MATCH] Python
+ Developer at Astrolite Tech Solutions LLC — https://remoteOK.com/remote-jobs/remote-python-developer-astrolite-tech-solutions-llc-1135319
+2026-07-24 10:15:02,111 [INFO] === Run complete: 4 new matches out of 12 filtered ===
