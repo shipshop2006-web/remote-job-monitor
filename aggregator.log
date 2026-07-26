@@ -53,3 +53,7 @@
 2026-07-25 09:44:55,693 [INFO] [NEW MATCH] Business Development Manager at Temu — https://remoteOK.com/remote-jobs/remote-business-development-manager-temu-1135291
 2026-07-25 09:44:55,695 [INFO] [NEW MATCH] Business Development Executive at Outsource Access Careers — https://remoteOK.com/remote-jobs/remote-business-development-executive-outsource-access-careers-1135287
 2026-07-25 09:44:55,696 [INFO] === Run complete: 9 new matches out of 11 filtered ===
+2026-07-26 09:57:48,133 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-07-26 09:57:49,374 [INFO] Fetched 100 total job listings from API
+2026-07-26 09:57:49,378 [INFO] Filtered to 9 jobs matching keywords ['python', 'django', 'fastapi']
+2026-07-26 09:57:49,379 [INFO] === Run complete: 0 new matches out of 9 filtered ===
