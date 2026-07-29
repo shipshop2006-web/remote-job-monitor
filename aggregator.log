@@ -66,3 +66,8 @@
 2026-07-28 10:32:55,389 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
 2026-07-28 10:32:55,390 [INFO] [NEW MATCH] Digital Designer at Revlytic — https://remoteOK.com/remote-jobs/remote-digital-designer-revlytic-1135456
 2026-07-28 10:32:55,392 [INFO] === Run complete: 1 new matches out of 1 filtered ===
+2026-07-29 10:36:41,316 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-07-29 10:36:41,831 [INFO] Fetched 100 total job listings from API
+2026-07-29 10:36:41,833 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
+2026-07-29 10:36:41,834 [INFO] [NEW MATCH] AI Intern at CertifyOS — https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555
+2026-07-29 10:36:41,835 [INFO] === Run complete: 1 new matches out of 1 filtered ===
