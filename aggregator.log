@@ -71,3 +71,5 @@
 2026-07-29 10:36:41,833 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
 2026-07-29 10:36:41,834 [INFO] [NEW MATCH] AI Intern at CertifyOS — https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555
 2026-07-29 10:36:41,835 [INFO] === Run complete: 1 new matches out of 1 filtered ===
+2026-07-30 10:23:11,022 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-07-30 10:23:26,143 [ERROR] Failed to fetch from API: HTTPSConnectionPool(host='remoteok.com', port=443): Read timed out. (read timeout=15)
