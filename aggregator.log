@@ -73,3 +73,16 @@
 2026-07-29 10:36:41,835 [INFO] === Run complete: 1 new matches out of 1 filtered ===
 2026-07-30 10:23:11,022 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
 2026-07-30 10:23:26,143 [ERROR] Failed to fetch from API: HTTPSConnectionPool(host='remoteok.com', port=443): Read timed out. (read timeout=15)
+2026-07-31 10:37:03,756 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-07-31 10:37:04,593 [INFO] Fetched 100 total job listings from API
+2026-07-31 10:37:04,596 [INFO] Filtered to 10 jobs matching keywords ['python', 'django', 'fastapi']
+2026-07-31 10:37:04,596 [INFO] [NEW MATCH] Supply Chain &amp; Operations Specialist at Miss Amara — https://remoteOK.com/remote-jobs/remote-supply-chain-amp-operations-specialist-miss-amara-1135691
+2026-07-31 10:37:04,598 [INFO] [NEW MATCH] Human Resources Specialist at Harvey Nash — https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675
+2026-07-31 10:37:04,600 [INFO] [NEW MATCH] Care Navigator Level 1 at Ready — https://remoteOK.com/remote-jobs/remote-care-navigator-level-1-ready-1135674
+2026-07-31 10:37:04,601 [INFO] [NEW MATCH] TÃ©lÃ©travail Professeur Particulier at TUS Media — https://remoteOK.com/remote-jobs/remote-teletravail-professeur-particulier-tus-media-1135639
+2026-07-31 10:37:04,602 [INFO] [NEW MATCH] Healthcare Virtual Assistant Athena EMR Experience at Snapscale Philippines — https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-athena-emr-experience-snapscale-philippines-1135688
+2026-07-31 10:37:04,603 [INFO] [NEW MATCH] Junior Data Analyst at HiredBuddy — https://remoteOK.com/remote-jobs/remote-junior-data-analyst-hiredbuddy-1135673
+2026-07-31 10:37:04,604 [INFO] [NEW MATCH] Project Management Coordinator at Arabian Private Holdings — https://remoteOK.com/remote-jobs/remote-project-management-coordinator-arabian-private-holdings-1135692
+2026-07-31 10:37:04,606 [INFO] [NEW MATCH] Senior DevOps Engineer at Lemon.io — https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1135562
+2026-07-31 10:37:04,607 [INFO] [NEW MATCH] LLM Engineer Freelancer at Monterail — https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638
+2026-07-31 10:37:04,608 [INFO] === Run complete: 9 new matches out of 10 filtered ===
