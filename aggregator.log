@@ -86,3 +86,11 @@
 2026-07-31 10:37:04,606 [INFO] [NEW MATCH] Senior DevOps Engineer at Lemon.io — https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1135562
 2026-07-31 10:37:04,607 [INFO] [NEW MATCH] LLM Engineer Freelancer at Monterail — https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638
 2026-07-31 10:37:04,608 [INFO] === Run complete: 9 new matches out of 10 filtered ===
+2026-08-01 09:56:47,722 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-01 09:56:48,189 [INFO] Fetched 100 total job listings from API
+2026-08-01 09:56:48,192 [INFO] Filtered to 11 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-01 09:56:48,193 [INFO] [NEW MATCH] GenAI Engineer AI Builder AI Agent Associate Specialist at Magic Compass Limited — https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735
+2026-08-01 09:56:48,210 [INFO] [NEW MATCH] AIå¹è®­è®²å¸ ç¡åé¡¹ç®ï¼çº¿ä¸ï¼ at è½¯è£è®¾è®¡å¬å¸ — https://remoteOK.com/remote-jobs/
+2026-08-01 09:56:48,211 [INFO] [NEW MATCH] Data Analyst at Sparksoft Corporation — https://remoteOK.com/remote-jobs/remote-data-analyst-sparksoft-corporation-1135698
+2026-08-01 09:56:48,213 [INFO] [NEW MATCH] Deputy Manager Sales HR at VARUN BEVERAGES LIMITED — https://remoteOK.com/remote-jobs/remote-deputy-manager-sales-hr-varun-beverages-limited-1135737
+2026-08-01 09:56:48,215 [INFO] === Run complete: 4 new matches out of 11 filtered ===
