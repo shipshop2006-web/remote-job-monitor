@@ -94,3 +94,8 @@
 2026-08-01 09:56:48,211 [INFO] [NEW MATCH] Data Analyst at Sparksoft Corporation — https://remoteOK.com/remote-jobs/remote-data-analyst-sparksoft-corporation-1135698
 2026-08-01 09:56:48,213 [INFO] [NEW MATCH] Deputy Manager Sales HR at VARUN BEVERAGES LIMITED — https://remoteOK.com/remote-jobs/remote-deputy-manager-sales-hr-varun-beverages-limited-1135737
 2026-08-01 09:56:48,215 [INFO] === Run complete: 4 new matches out of 11 filtered ===
+2026-08-02 09:54:55,975 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-02 09:54:56,522 [INFO] Fetched 100 total job listings from API
+2026-08-02 09:54:56,526 [INFO] Filtered to 9 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-02 09:54:56,527 [INFO] [NEW MATCH] Accounts Assistant at CUBE Construction Group Ltd. — https://remoteOK.com/remote-jobs/remote-accounts-assistant-cube-construction-group-ltd-1135829
+2026-08-02 09:54:56,529 [INFO] === Run complete: 1 new matches out of 9 filtered ===
