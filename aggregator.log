@@ -99,3 +99,9 @@
 2026-08-02 09:54:56,526 [INFO] Filtered to 9 jobs matching keywords ['python', 'django', 'fastapi']
 2026-08-02 09:54:56,527 [INFO] [NEW MATCH] Accounts Assistant at CUBE Construction Group Ltd. — https://remoteOK.com/remote-jobs/remote-accounts-assistant-cube-construction-group-ltd-1135829
 2026-08-02 09:54:56,529 [INFO] === Run complete: 1 new matches out of 9 filtered ===
+2026-08-03 11:20:12,186 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-03 11:20:12,646 [INFO] Fetched 100 total job listings from API
+2026-08-03 11:20:12,654 [INFO] Filtered to 7 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-03 11:20:12,655 [INFO] [NEW MATCH] Plant Fitter at Queensland Rail — https://remoteOK.com/remote-jobs/remote-plant-fitter-queensland-rail-1136027
+2026-08-03 11:20:12,658 [INFO] [NEW MATCH] Hardship &amp; Insolvency Specialist at Jacaranda Finance — https://remoteOK.com/remote-jobs/remote-hardship-amp-insolvency-specialist-jacaranda-finance-1136030
+2026-08-03 11:20:12,659 [INFO] === Run complete: 2 new matches out of 7 filtered ===
