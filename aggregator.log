@@ -105,3 +105,7 @@
 2026-08-03 11:20:12,655 [INFO] [NEW MATCH] Plant Fitter at Queensland Rail — https://remoteOK.com/remote-jobs/remote-plant-fitter-queensland-rail-1136027
 2026-08-03 11:20:12,658 [INFO] [NEW MATCH] Hardship &amp; Insolvency Specialist at Jacaranda Finance — https://remoteOK.com/remote-jobs/remote-hardship-amp-insolvency-specialist-jacaranda-finance-1136030
 2026-08-03 11:20:12,659 [INFO] === Run complete: 2 new matches out of 7 filtered ===
+2026-08-04 10:36:24,748 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-04 10:36:25,244 [INFO] Fetched 100 total job listings from API
+2026-08-04 10:36:25,247 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-04 10:36:25,248 [INFO] === Run complete: 0 new matches out of 1 filtered ===
