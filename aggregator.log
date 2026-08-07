@@ -118,3 +118,8 @@
 2026-08-06 10:36:35,945 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
 2026-08-06 10:36:35,945 [INFO] [NEW MATCH] Data Analyst at SEAhub Asia — https://remoteOK.com/remote-jobs/remote-data-analyst-seahub-asia-1136222
 2026-08-06 10:36:35,947 [INFO] === Run complete: 1 new matches out of 1 filtered ===
+2026-08-07 08:57:21,117 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-07 08:57:21,587 [INFO] Fetched 100 total job listings from API
+2026-08-07 08:57:21,590 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-07 08:57:21,590 [INFO] [NEW MATCH] Cabin Crew Virtual Interviews PAN India at Akasa Air — https://remoteOK.com/remote-jobs/remote-cabin-crew-virtual-interviews-pan-india-akasa-air-1136223
+2026-08-07 08:57:21,592 [INFO] === Run complete: 1 new matches out of 1 filtered ===
