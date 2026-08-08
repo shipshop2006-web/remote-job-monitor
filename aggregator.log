@@ -123,3 +123,7 @@
 2026-08-07 08:57:21,590 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
 2026-08-07 08:57:21,590 [INFO] [NEW MATCH] Cabin Crew Virtual Interviews PAN India at Akasa Air — https://remoteOK.com/remote-jobs/remote-cabin-crew-virtual-interviews-pan-india-akasa-air-1136223
 2026-08-07 08:57:21,592 [INFO] === Run complete: 1 new matches out of 1 filtered ===
+2026-08-08 08:38:15,057 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-08 08:38:15,970 [INFO] Fetched 100 total job listings from API
+2026-08-08 08:38:15,973 [INFO] Filtered to 1 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-08 08:38:15,974 [INFO] === Run complete: 0 new matches out of 1 filtered ===
