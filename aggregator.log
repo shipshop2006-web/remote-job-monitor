@@ -152,3 +152,14 @@
 2026-08-14 09:05:04,251 [INFO] Fetched 100 total job listings from API
 2026-08-14 09:05:04,254 [INFO] Filtered to 0 jobs matching keywords ['python', 'django', 'fastapi']
 2026-08-14 09:05:04,254 [INFO] === Run complete: 0 new matches out of 0 filtered ===
+2026-08-15 08:24:59,515 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-15 08:25:00,182 [INFO] Fetched 100 total job listings from API
+2026-08-15 08:25:00,186 [INFO] Filtered to 7 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-15 08:25:00,187 [INFO] [NEW MATCH] Senior Data Engineer at Lemon.io — https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594
+2026-08-15 08:25:00,189 [INFO] [NEW MATCH] Porter at W Hotels — https://remoteOK.com/remote-jobs/remote-porter-w-hotels-1136724
+2026-08-15 08:25:00,192 [INFO] [NEW MATCH] Team Member at SubwayÂ® Australia — https://remoteOK.com/remote-jobs/remote-team-member-subwayr-australia-1136726
+2026-08-15 08:25:00,194 [INFO] [NEW MATCH] Store Manager Dan Murphy's Canberra Region at Dan Murphy's — https://remoteOK.com/remote-jobs/remote-store-manager-dan-murphys-canberra-region-dan-murphys-1136712
+2026-08-15 08:25:00,195 [INFO] [NEW MATCH] Store Manager Liquorland Wollongong at Coles Liquor — https://remoteOK.com/remote-jobs/remote-store-manager-liquorland-wollongong-coles-liquor-1136713
+2026-08-15 08:25:00,198 [INFO] [NEW MATCH] 1st Class Machinist at BAE Systems Australia — https://remoteOK.com/remote-jobs/remote-1st-class-machinist-bae-systems-australia-1136723
+2026-08-15 08:25:00,200 [INFO] [NEW MATCH] Optometrist at Specsavers — https://remoteOK.com/remote-jobs/remote-optometrist-specsavers-1136715
+2026-08-15 08:25:00,202 [INFO] === Run complete: 7 new matches out of 7 filtered ===
