@@ -163,3 +163,8 @@
 2026-08-15 08:25:00,198 [INFO] [NEW MATCH] 1st Class Machinist at BAE Systems Australia — https://remoteOK.com/remote-jobs/remote-1st-class-machinist-bae-systems-australia-1136723
 2026-08-15 08:25:00,200 [INFO] [NEW MATCH] Optometrist at Specsavers — https://remoteOK.com/remote-jobs/remote-optometrist-specsavers-1136715
 2026-08-15 08:25:00,202 [INFO] === Run complete: 7 new matches out of 7 filtered ===
+2026-08-16 08:26:43,553 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-16 08:26:44,073 [INFO] Fetched 100 total job listings from API
+2026-08-16 08:26:44,077 [INFO] Filtered to 6 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-16 08:26:44,077 [INFO] [NEW MATCH] Shop Assistant Cammeray at Harris Farm Markets — https://remoteOK.com/remote-jobs/remote-shop-assistant-cammeray-harris-farm-markets-1136719
+2026-08-16 08:26:44,080 [INFO] === Run complete: 1 new matches out of 6 filtered ===
