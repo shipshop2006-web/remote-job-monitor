@@ -168,3 +168,8 @@
 2026-08-16 08:26:44,077 [INFO] Filtered to 6 jobs matching keywords ['python', 'django', 'fastapi']
 2026-08-16 08:26:44,077 [INFO] [NEW MATCH] Shop Assistant Cammeray at Harris Farm Markets — https://remoteOK.com/remote-jobs/remote-shop-assistant-cammeray-harris-farm-markets-1136719
 2026-08-16 08:26:44,080 [INFO] === Run complete: 1 new matches out of 6 filtered ===
+2026-08-17 08:40:30,932 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-17 08:40:31,495 [INFO] Fetched 100 total job listings from API
+2026-08-17 08:40:31,499 [INFO] Filtered to 6 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-17 08:40:31,500 [INFO] [NEW MATCH] Senior Software Engineer Case Execution at Pivotal Health — https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795
+2026-08-17 08:40:31,502 [INFO] === Run complete: 1 new matches out of 6 filtered ===
