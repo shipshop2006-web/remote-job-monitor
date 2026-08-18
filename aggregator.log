@@ -173,3 +173,9 @@
 2026-08-17 08:40:31,499 [INFO] Filtered to 6 jobs matching keywords ['python', 'django', 'fastapi']
 2026-08-17 08:40:31,500 [INFO] [NEW MATCH] Senior Software Engineer Case Execution at Pivotal Health — https://remoteOK.com/remote-jobs/remote-senior-software-engineer-case-execution-pivotal-health-1136795
 2026-08-17 08:40:31,502 [INFO] === Run complete: 1 new matches out of 6 filtered ===
+2026-08-18 08:34:19,535 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-18 08:34:20,457 [INFO] Fetched 100 total job listings from API
+2026-08-18 08:34:20,464 [INFO] Filtered to 8 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-18 08:34:20,465 [INFO] [NEW MATCH] Aviation Maintenance Technician at FedEx — https://remoteOK.com/remote-jobs/remote-aviation-maintenance-technician-fedex-1136922
+2026-08-18 08:34:20,467 [INFO] [NEW MATCH] Valet Driver at Marina Bay Sands — https://remoteOK.com/remote-jobs/remote-valet-driver-marina-bay-sands-1136920
+2026-08-18 08:34:20,469 [INFO] === Run complete: 2 new matches out of 8 filtered ===
