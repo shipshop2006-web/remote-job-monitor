@@ -179,3 +179,7 @@
 2026-08-18 08:34:20,465 [INFO] [NEW MATCH] Aviation Maintenance Technician at FedEx — https://remoteOK.com/remote-jobs/remote-aviation-maintenance-technician-fedex-1136922
 2026-08-18 08:34:20,467 [INFO] [NEW MATCH] Valet Driver at Marina Bay Sands — https://remoteOK.com/remote-jobs/remote-valet-driver-marina-bay-sands-1136920
 2026-08-18 08:34:20,469 [INFO] === Run complete: 2 new matches out of 8 filtered ===
+2026-08-19 08:34:25,964 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-19 08:34:26,462 [INFO] Fetched 100 total job listings from API
+2026-08-19 08:34:26,467 [INFO] Filtered to 8 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-19 08:34:26,468 [INFO] === Run complete: 0 new matches out of 8 filtered ===
