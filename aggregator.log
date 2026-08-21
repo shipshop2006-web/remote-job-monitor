@@ -188,3 +188,7 @@
 2026-08-20 08:35:04,142 [INFO] Filtered to 7 jobs matching keywords ['python', 'django', 'fastapi']
 2026-08-20 08:35:04,142 [INFO] [NEW MATCH] Store Manager at JACK &amp; JONES — https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006
 2026-08-20 08:35:04,145 [INFO] === Run complete: 1 new matches out of 7 filtered ===
+2026-08-21 08:37:48,945 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-21 08:37:49,736 [INFO] Fetched 100 total job listings from API
+2026-08-21 08:37:49,740 [INFO] Filtered to 4 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-21 08:37:49,741 [INFO] === Run complete: 0 new matches out of 4 filtered ===
