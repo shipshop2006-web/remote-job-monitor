@@ -196,3 +196,8 @@
 2026-08-22 08:26:30,045 [INFO] Fetched 100 total job listings from API
 2026-08-22 08:26:30,050 [INFO] Filtered to 2 jobs matching keywords ['python', 'django', 'fastapi']
 2026-08-22 08:26:30,050 [INFO] === Run complete: 0 new matches out of 2 filtered ===
+2026-08-23 08:27:05,430 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-08-23 08:27:06,176 [INFO] Fetched 99 total job listings from API
+2026-08-23 08:27:06,180 [INFO] Filtered to 2 jobs matching keywords ['python', 'django', 'fastapi']
+2026-08-23 08:27:06,180 [INFO] [NEW MATCH] DESARROLLADOR FULL STACK at Kruger NearShore LLC - Rekluti — https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062
+2026-08-23 08:27:06,182 [INFO] === Run complete: 1 new matches out of 2 filtered ===
