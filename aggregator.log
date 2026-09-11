@@ -271,3 +271,8 @@
 2026-09-09 12:43:50,168 [INFO] === Run complete: 0 new matches out of 0 filtered ===
 2026-09-10 12:42:04,090 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
 2026-09-10 12:42:19,205 [ERROR] Failed to fetch from API: HTTPSConnectionPool(host='remoteok.com', port=443): Read timed out. (read timeout=15)
+2026-09-11 12:36:41,883 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-09-11 12:36:42,398 [INFO] Fetched 99 total job listings from API
+2026-09-11 12:36:42,403 [INFO] Filtered to 10 jobs matching keywords ['python', 'django', 'fastapi']
+2026-09-11 12:36:42,405 [INFO] [NEW MATCH] Program Administration Manager at Greenlight Action — https://remoteOK.com/remote-jobs/remote-program-administration-manager-greenlight-action-1135738
+2026-09-11 12:36:42,420 [INFO] === Run complete: 1 new matches out of 10 filtered ===
