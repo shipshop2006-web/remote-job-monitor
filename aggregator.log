@@ -284,3 +284,7 @@
 2026-09-13 13:06:26,147 [INFO] Fetched 99 total job listings from API
 2026-09-13 13:06:26,152 [INFO] Filtered to 8 jobs matching keywords ['python', 'django', 'fastapi']
 2026-09-13 13:06:26,154 [INFO] === Run complete: 0 new matches out of 8 filtered ===
+2026-09-14 14:43:54,885 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-09-14 14:43:55,550 [INFO] Fetched 99 total job listings from API
+2026-09-14 14:43:55,556 [INFO] Filtered to 7 jobs matching keywords ['python', 'django', 'fastapi']
+2026-09-14 14:43:55,557 [INFO] === Run complete: 0 new matches out of 7 filtered ===
