@@ -389,3 +389,8 @@
 2026-10-09 14:58:17,997 [INFO] Fetched 99 total job listings from API
 2026-10-09 14:58:18,002 [INFO] Filtered to 4 jobs matching keywords ['python', 'django', 'fastapi']
 2026-10-09 14:58:18,003 [INFO] === Run complete: 0 new matches out of 4 filtered ===
+2026-10-10 14:13:31,519 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-10 14:13:32,119 [INFO] Fetched 99 total job listings from API
+2026-10-10 14:13:32,125 [INFO] Filtered to 5 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-10 14:13:32,125 [INFO] [NEW MATCH] Senior React Full stack Developer at Lemon.io — https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475
+2026-10-10 14:13:32,128 [INFO] === Run complete: 1 new matches out of 5 filtered ===
