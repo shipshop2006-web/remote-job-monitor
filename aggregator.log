@@ -411,3 +411,7 @@
 2026-10-14 13:18:35,056 [INFO] Filtered to 6 jobs matching keywords ['python', 'django', 'fastapi']
 2026-10-14 13:18:35,056 [INFO] [NEW MATCH] Principal Software Engineer at Vytalize Health — https://remoteOK.com/remote-jobs/remote-principal-software-engineer-vytalize-health-1137508
 2026-10-14 13:18:35,059 [INFO] === Run complete: 1 new matches out of 6 filtered ===
+2026-10-15 13:04:09,017 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-15 13:04:09,722 [INFO] Fetched 99 total job listings from API
+2026-10-15 13:04:09,726 [INFO] Filtered to 6 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-15 13:04:09,727 [INFO] === Run complete: 0 new matches out of 6 filtered ===
