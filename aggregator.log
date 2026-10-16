@@ -415,3 +415,8 @@
 2026-10-15 13:04:09,722 [INFO] Fetched 99 total job listings from API
 2026-10-15 13:04:09,726 [INFO] Filtered to 6 jobs matching keywords ['python', 'django', 'fastapi']
 2026-10-15 13:04:09,727 [INFO] === Run complete: 0 new matches out of 6 filtered ===
+2026-10-16 13:00:51,822 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-16 13:00:52,416 [INFO] Fetched 99 total job listings from API
+2026-10-16 13:00:52,421 [INFO] Filtered to 7 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-16 13:00:52,422 [INFO] [NEW MATCH] Sr REACT NATIVE at Somnio Software — https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523
+2026-10-16 13:00:52,790 [INFO] === Run complete: 1 new matches out of 7 filtered ===
