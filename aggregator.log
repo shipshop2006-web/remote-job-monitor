@@ -420,3 +420,10 @@
 2026-10-16 13:00:52,421 [INFO] Filtered to 7 jobs matching keywords ['python', 'django', 'fastapi']
 2026-10-16 13:00:52,422 [INFO] [NEW MATCH] Sr REACT NATIVE at Somnio Software — https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523
 2026-10-16 13:00:52,790 [INFO] === Run complete: 1 new matches out of 7 filtered ===
+2026-10-17 11:58:13,705 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-17 11:58:14,238 [INFO] Fetched 99 total job listings from API
+2026-10-17 11:58:14,243 [INFO] Filtered to 10 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-17 11:58:14,244 [INFO] [NEW MATCH] Associate Data Scientist at AlgaeCal — https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531
+2026-10-17 11:58:14,246 [INFO] [NEW MATCH] Director of IT and Workplace at Hippocratic AI — https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530
+2026-10-17 11:58:14,247 [INFO] [NEW MATCH] Senior Software Engineer II Applied AI at Wrapbook — https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
+2026-10-17 11:58:14,249 [INFO] === Run complete: 3 new matches out of 10 filtered ===
