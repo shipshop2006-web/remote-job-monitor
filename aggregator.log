@@ -427,3 +427,10 @@
 2026-10-17 11:58:14,246 [INFO] [NEW MATCH] Director of IT and Workplace at Hippocratic AI — https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530
 2026-10-17 11:58:14,247 [INFO] [NEW MATCH] Senior Software Engineer II Applied AI at Wrapbook — https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527
 2026-10-17 11:58:14,249 [INFO] === Run complete: 3 new matches out of 10 filtered ===
+2026-10-18 12:26:47,094 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-18 12:26:47,651 [INFO] Fetched 99 total job listings from API
+2026-10-18 12:26:47,655 [INFO] Filtered to 12 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-18 12:26:47,655 [INFO] [NEW MATCH] Technical Account Manager at Yuno — https://remoteOK.com/remote-jobs/remote-technical-account-manager-yuno-1137540
+2026-10-18 12:26:47,657 [INFO] [NEW MATCH] Software Engineer AI Coding Tasks at Askable — https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
+2026-10-18 12:26:47,658 [INFO] [NEW MATCH] APAC Python at Kodland — https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534
+2026-10-18 12:26:47,659 [INFO] === Run complete: 3 new matches out of 12 filtered ===
