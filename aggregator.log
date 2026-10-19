@@ -434,3 +434,7 @@
 2026-10-18 12:26:47,657 [INFO] [NEW MATCH] Software Engineer AI Coding Tasks at Askable — https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538
 2026-10-18 12:26:47,658 [INFO] [NEW MATCH] APAC Python at Kodland — https://remoteOK.com/remote-jobs/remote-apac-python-kodland-1137534
 2026-10-18 12:26:47,659 [INFO] === Run complete: 3 new matches out of 12 filtered ===
+2026-10-19 15:16:44,291 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-19 15:16:44,800 [INFO] Fetched 99 total job listings from API
+2026-10-19 15:16:44,806 [INFO] Filtered to 12 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-19 15:16:44,807 [INFO] === Run complete: 0 new matches out of 12 filtered ===
