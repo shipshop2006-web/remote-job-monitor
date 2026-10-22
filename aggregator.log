@@ -447,3 +447,7 @@
 2026-10-21 13:26:15,539 [INFO] Filtered to 13 jobs matching keywords ['python', 'django', 'fastapi']
 2026-10-21 13:26:15,540 [INFO] [NEW MATCH] Risk Analyst at Pavago — https://remoteOK.com/remote-jobs/remote-risk-analyst-pavago-1137548
 2026-10-21 13:26:15,543 [INFO] === Run complete: 1 new matches out of 13 filtered ===
+2026-10-22 13:27:22,240 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-22 13:27:22,851 [INFO] Fetched 99 total job listings from API
+2026-10-22 13:27:22,857 [INFO] Filtered to 13 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-22 13:27:22,858 [INFO] === Run complete: 0 new matches out of 13 filtered ===
