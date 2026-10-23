@@ -451,3 +451,8 @@
 2026-10-22 13:27:22,851 [INFO] Fetched 99 total job listings from API
 2026-10-22 13:27:22,857 [INFO] Filtered to 13 jobs matching keywords ['python', 'django', 'fastapi']
 2026-10-22 13:27:22,858 [INFO] === Run complete: 0 new matches out of 13 filtered ===
+2026-10-23 13:04:18,653 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-23 13:04:19,520 [INFO] Fetched 99 total job listings from API
+2026-10-23 13:04:19,528 [INFO] Filtered to 14 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-23 13:04:19,528 [INFO] [NEW MATCH] Senior DevOps Engineer at Lemon.io — https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557
+2026-10-23 13:04:19,532 [INFO] === Run complete: 1 new matches out of 14 filtered ===
