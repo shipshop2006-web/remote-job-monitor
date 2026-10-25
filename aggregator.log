@@ -460,3 +460,8 @@
 2026-10-24 12:26:38,833 [INFO] Fetched 99 total job listings from API
 2026-10-24 12:26:38,839 [INFO] Filtered to 14 jobs matching keywords ['python', 'django', 'fastapi']
 2026-10-24 12:26:38,841 [INFO] === Run complete: 0 new matches out of 14 filtered ===
+2026-10-25 12:57:15,172 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-25 12:57:15,561 [INFO] Fetched 99 total job listings from API
+2026-10-25 12:57:15,566 [INFO] Filtered to 15 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-25 12:57:15,567 [INFO] [NEW MATCH] Solutions Engineer at Onebrief — https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568
+2026-10-25 12:57:15,570 [INFO] === Run complete: 1 new matches out of 15 filtered ===
