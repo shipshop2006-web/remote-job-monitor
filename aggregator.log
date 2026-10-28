@@ -474,3 +474,7 @@
 2026-10-27 13:57:46,307 [INFO] Filtered to 16 jobs matching keywords ['python', 'django', 'fastapi']
 2026-10-27 13:57:46,308 [INFO] [NEW MATCH] Senior Software Engineer LATAM at Wagmo — https://remoteOK.com/remote-jobs/remote-senior-software-engineer-latam-wagmo-1137572
 2026-10-27 13:57:46,311 [INFO] === Run complete: 1 new matches out of 16 filtered ===
+2026-10-28 14:51:08,674 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-10-28 14:51:09,352 [INFO] Fetched 99 total job listings from API
+2026-10-28 14:51:09,358 [INFO] Filtered to 16 jobs matching keywords ['python', 'django', 'fastapi']
+2026-10-28 14:51:09,359 [INFO] === Run complete: 0 new matches out of 16 filtered ===
