@@ -491,3 +491,7 @@
 2026-10-31 14:17:17,695 [INFO] Filtered to 16 jobs matching keywords ['python', 'django', 'fastapi']
 2026-10-31 14:17:17,695 [INFO] [NEW MATCH] Cloud Engineer Automation at Smile Digital Health — https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600
 2026-10-31 14:17:17,699 [INFO] === Run complete: 1 new matches out of 16 filtered ===
+2026-11-01 14:44:16,862 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-01 14:44:17,912 [INFO] Fetched 99 total job listings from API
+2026-11-01 14:44:17,917 [INFO] Filtered to 16 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-01 14:44:17,920 [INFO] === Run complete: 0 new matches out of 16 filtered ===
