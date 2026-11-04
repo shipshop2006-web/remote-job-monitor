@@ -504,3 +504,7 @@
 2026-11-03 15:49:04,298 [INFO] Filtered to 17 jobs matching keywords ['python', 'django', 'fastapi']
 2026-11-03 15:49:04,299 [INFO] [NEW MATCH] AI ML Engineer at Docusketch — https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619
 2026-11-03 15:49:04,326 [INFO] === Run complete: 1 new matches out of 17 filtered ===
+2026-11-04 15:57:21,392 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-04 15:57:21,916 [INFO] Fetched 99 total job listings from API
+2026-11-04 15:57:21,921 [INFO] Filtered to 18 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-04 15:57:21,922 [INFO] === Run complete: 0 new matches out of 18 filtered ===
