@@ -508,3 +508,11 @@
 2026-11-04 15:57:21,916 [INFO] Fetched 99 total job listings from API
 2026-11-04 15:57:21,921 [INFO] Filtered to 18 jobs matching keywords ['python', 'django', 'fastapi']
 2026-11-04 15:57:21,922 [INFO] === Run complete: 0 new matches out of 18 filtered ===
+2026-11-06 15:39:21,106 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-06 15:39:21,612 [INFO] Fetched 99 total job listings from API
+2026-11-06 15:39:21,618 [INFO] Filtered to 20 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-06 15:39:21,618 [INFO] [NEW MATCH] Operations Expert with Python for AI Supply Chain Task Design at Toptal — https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690
+2026-11-06 15:39:21,620 [INFO] [NEW MATCH] ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM) at Toptal — https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689
+2026-11-06 15:39:21,621 [INFO] [NEW MATCH] Senior Vue Developer at Lemon.io — https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688
+2026-11-06 15:39:21,623 [INFO] [NEW MATCH] Software Engineer at Claims — https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685
+2026-11-06 15:39:21,625 [INFO] === Run complete: 4 new matches out of 20 filtered ===
