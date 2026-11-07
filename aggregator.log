@@ -516,3 +516,7 @@
 2026-11-06 15:39:21,621 [INFO] [NEW MATCH] Senior Vue Developer at Lemon.io — https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688
 2026-11-06 15:39:21,623 [INFO] [NEW MATCH] Software Engineer at Claims — https://remoteOK.com/remote-jobs/remote-software-engineer-claims-1137685
 2026-11-06 15:39:21,625 [INFO] === Run complete: 4 new matches out of 20 filtered ===
+2026-11-07 14:40:16,001 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-07 14:40:16,431 [INFO] Fetched 99 total job listings from API
+2026-11-07 14:40:16,436 [INFO] Filtered to 19 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-07 14:40:16,439 [INFO] === Run complete: 0 new matches out of 19 filtered ===
