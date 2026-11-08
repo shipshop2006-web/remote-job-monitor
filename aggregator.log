@@ -520,3 +520,8 @@
 2026-11-07 14:40:16,431 [INFO] Fetched 99 total job listings from API
 2026-11-07 14:40:16,436 [INFO] Filtered to 19 jobs matching keywords ['python', 'django', 'fastapi']
 2026-11-07 14:40:16,439 [INFO] === Run complete: 0 new matches out of 19 filtered ===
+2026-11-08 14:45:45,419 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-08 14:45:46,002 [INFO] Fetched 99 total job listings from API
+2026-11-08 14:45:46,006 [INFO] Filtered to 21 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-08 14:45:46,006 [INFO] [NEW MATCH] AI Developer at Salvo Software — https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701
+2026-11-08 14:45:46,011 [INFO] === Run complete: 1 new matches out of 21 filtered ===
