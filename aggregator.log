@@ -525,3 +525,8 @@
 2026-11-08 14:45:46,006 [INFO] Filtered to 21 jobs matching keywords ['python', 'django', 'fastapi']
 2026-11-08 14:45:46,006 [INFO] [NEW MATCH] AI Developer at Salvo Software — https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701
 2026-11-08 14:45:46,011 [INFO] === Run complete: 1 new matches out of 21 filtered ===
+2026-11-10 16:05:31,491 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-10 16:05:32,207 [INFO] Fetched 99 total job listings from API
+2026-11-10 16:05:32,210 [INFO] Filtered to 19 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-10 16:05:32,211 [INFO] [NEW MATCH] Senior Agentic AI Engineer NDA at GT — https://remoteOK.com/remote-jobs/remote-senior-agentic-ai-engineer-nda-gt-1137710
+2026-11-10 16:05:32,213 [INFO] === Run complete: 1 new matches out of 19 filtered ===
