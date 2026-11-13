@@ -539,3 +539,7 @@
 2026-11-12 16:34:21,891 [INFO] Filtered to 20 jobs matching keywords ['python', 'django', 'fastapi']
 2026-11-12 16:34:21,891 [INFO] [NEW MATCH] Data Engineer at Addepto — https://remoteOK.com/remote-jobs/remote-data-engineer-addepto-1137714
 2026-11-12 16:34:21,896 [INFO] === Run complete: 1 new matches out of 20 filtered ===
+2026-11-13 15:54:54,826 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-13 15:54:55,399 [INFO] Fetched 98 total job listings from API
+2026-11-13 15:54:55,404 [INFO] Filtered to 20 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-13 15:54:55,406 [INFO] === Run complete: 0 new matches out of 20 filtered ===
