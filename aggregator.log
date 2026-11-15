@@ -548,3 +548,7 @@
 2026-11-14 14:45:14,386 [INFO] Filtered to 20 jobs matching keywords ['python', 'django', 'fastapi']
 2026-11-14 14:45:14,387 [INFO] [NEW MATCH] Research Engineer Privacy and Anonymization at Pragmatike — https://remoteOK.com/remote-jobs/remote-research-engineer-privacy-and-anonymization-pragmatike-1137792
 2026-11-14 14:45:14,390 [INFO] === Run complete: 1 new matches out of 20 filtered ===
+2026-11-15 15:20:44,311 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-15 15:20:44,730 [INFO] Fetched 97 total job listings from API
+2026-11-15 15:20:44,736 [INFO] Filtered to 19 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-15 15:20:44,737 [INFO] === Run complete: 0 new matches out of 19 filtered ===
