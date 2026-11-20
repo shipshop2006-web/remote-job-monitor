@@ -568,3 +568,12 @@
 2026-11-19 17:03:04,181 [INFO] Fetched 97 total job listings from API
 2026-11-19 17:03:04,184 [INFO] Filtered to 18 jobs matching keywords ['python', 'django', 'fastapi']
 2026-11-19 17:03:04,186 [INFO] === Run complete: 0 new matches out of 18 filtered ===
+2026-11-20 16:42:11,263 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-20 16:42:11,796 [INFO] Fetched 98 total job listings from API
+2026-11-20 16:42:11,800 [INFO] Filtered to 19 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-20 16:42:11,801 [INFO] [NEW MATCH] Engineer Software Defined Vehicle Simulation and Development at NIKI Digital Engineering — https://remoteOK.com/remote-jobs/remote-engineer-software-defined-vehicle-simulation-and-development-niki-digital-engineering-1137839
+2026-11-20 16:42:11,802 [INFO] [NEW MATCH] Postdoc PhD PhD cand. Physics Computer Science at NIKI Digital Engineering — https://remoteOK.com/remote-jobs/remote-postdoc-phd-phd-cand-physics-computer-science-niki-digital-engineering-1137837
+2026-11-20 16:42:11,802 [INFO] [NEW MATCH] Technical Lead Norm Compliance at Norm — https://remoteOK.com/remote-jobs/remote-technical-lead-norm-compliance-norm-1137835
+2026-11-20 16:42:11,803 [INFO] [NEW MATCH] Enterprise Solutions Engineer, East at Glean — https://remoteOK.com/remote-jobs/remote-enterprise-solutions-engineer-east-glean-1137826
+2026-11-20 16:42:11,803 [INFO] [NEW MATCH] Software Engineer AI Coding Tasks at Askable — https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808
+2026-11-20 16:42:11,805 [INFO] === Run complete: 5 new matches out of 19 filtered ===
