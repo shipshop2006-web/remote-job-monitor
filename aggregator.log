@@ -577,3 +577,17 @@
 2026-11-20 16:42:11,803 [INFO] [NEW MATCH] Enterprise Solutions Engineer, East at Glean — https://remoteOK.com/remote-jobs/remote-enterprise-solutions-engineer-east-glean-1137826
 2026-11-20 16:42:11,803 [INFO] [NEW MATCH] Software Engineer AI Coding Tasks at Askable — https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808
 2026-11-20 16:42:11,805 [INFO] === Run complete: 5 new matches out of 19 filtered ===
+2026-11-21 15:54:18,517 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-21 15:54:19,349 [INFO] Fetched 100 total job listings from API
+2026-11-21 15:54:19,356 [INFO] Filtered to 15 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-21 15:54:19,357 [INFO] [NEW MATCH] Senior Manager, Product Analytics (Growth) at iFIT — https://remoteOK.com/remote-jobs/remote-senior-manager-product-analytics-growth-ifit-1137912
+2026-11-21 15:54:19,359 [INFO] [NEW MATCH] Staff Security Engineer - AppSec at 6sense — https://remoteOK.com/remote-jobs/remote-staff-security-engineer-appsec-6sense-1137897
+2026-11-21 15:54:19,360 [INFO] [NEW MATCH] Senior Atlassian Cloud Administrator at Dropbox — https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-administrator-dropbox-1137874
+2026-11-21 15:54:19,362 [INFO] [NEW MATCH] Senior Software Engineer at Clover Health — https://remoteOK.com/remote-jobs/remote-senior-software-engineer-clover-health-1137871
+2026-11-21 15:54:19,363 [INFO] [NEW MATCH] Senior Atlassian Cloud Admininstrator at Dropbox — https://remoteOK.com/remote-jobs/remote-senior-atlassian-cloud-admininstrator-dropbox-1137860
+2026-11-21 15:54:19,364 [INFO] [NEW MATCH] Principal DevSecOps Engineer at Upgrade — https://remoteOK.com/remote-jobs/remote-principal-devsecops-engineer-upgrade-1137858
+2026-11-21 15:54:19,365 [INFO] [NEW MATCH] Infrastructure Software Engineer at Dropbox — https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857
+2026-11-21 15:54:19,366 [INFO] [NEW MATCH] Engineering Manager at Clover Health — https://remoteOK.com/remote-jobs/remote-engineering-manager-clover-health-1137855
+2026-11-21 15:54:19,367 [INFO] [NEW MATCH] Senior GTM Engineer at Salesloft — https://remoteOK.com/remote-jobs/remote-senior-gtm-engineer-salesloft-1137851
+2026-11-21 15:54:19,368 [INFO] [NEW MATCH] Senior Data Engineer Tech Foundations at Airbnb — https://remoteOK.com/remote-jobs/remote-senior-data-engineer-tech-foundations-airbnb-1137846
+2026-11-21 15:54:19,370 [INFO] === Run complete: 10 new matches out of 15 filtered ===
