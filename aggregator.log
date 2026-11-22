@@ -591,3 +591,19 @@
 2026-11-21 15:54:19,367 [INFO] [NEW MATCH] Senior GTM Engineer at Salesloft — https://remoteOK.com/remote-jobs/remote-senior-gtm-engineer-salesloft-1137851
 2026-11-21 15:54:19,368 [INFO] [NEW MATCH] Senior Data Engineer Tech Foundations at Airbnb — https://remoteOK.com/remote-jobs/remote-senior-data-engineer-tech-foundations-airbnb-1137846
 2026-11-21 15:54:19,370 [INFO] === Run complete: 10 new matches out of 15 filtered ===
+2026-11-22 15:55:13,837 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-22 15:55:14,247 [INFO] Fetched 100 total job listings from API
+2026-11-22 15:55:14,254 [INFO] Filtered to 18 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-22 15:55:14,254 [INFO] [NEW MATCH] Sr Analyst, Analytics & Insights at BeyondTrust — https://remoteOK.com/remote-jobs/remote-sr-analyst-analytics-insights-beyondtrust-1137962
+2026-11-22 15:55:14,256 [INFO] [NEW MATCH] Senior Database Engineer at Bitwarden — https://remoteOK.com/remote-jobs/remote-senior-database-engineer-bitwarden-1137957
+2026-11-22 15:55:14,257 [INFO] [NEW MATCH] Staff Data Scientist - Martech Platform (ML/Algos) at Airbnb — https://remoteOK.com/remote-jobs/remote-staff-data-scientist-martech-platform-ml-algos-airbnb-1137956
+2026-11-22 15:55:14,258 [INFO] [NEW MATCH] Senior Software Engineer - Behavioral Security Products at Abnormal — https://remoteOK.com/remote-jobs/remote-senior-software-engineer-behavioral-security-products-abnormal-1137948
+2026-11-22 15:55:14,259 [INFO] [NEW MATCH] Engineering Manager, Ranking Platform at Reddit — https://remoteOK.com/remote-jobs/remote-engineering-manager-ranking-platform-reddit-1137946
+2026-11-22 15:55:14,260 [INFO] [NEW MATCH] Principal Software Engineer, Infrastructure at Reddit — https://remoteOK.com/remote-jobs/remote-principal-software-engineer-infrastructure-reddit-1137945
+2026-11-22 15:55:14,261 [INFO] [NEW MATCH] Enterprise Performance Lead at Clover Health — https://remoteOK.com/remote-jobs/remote-enterprise-performance-lead-clover-health-1137944
+2026-11-22 15:55:14,262 [INFO] [NEW MATCH] Senior Staff Machine Learning Engineer, Ads Ranking at Reddit — https://remoteOK.com/remote-jobs/remote-senior-staff-machine-learning-engineer-ads-ranking-reddit-1137932
+2026-11-22 15:55:14,263 [INFO] [NEW MATCH] Staff Scientist, Machine Learning (Genomics) at Natera — https://remoteOK.com/remote-jobs/remote-staff-scientist-machine-learning-genomics-natera-1137926
+2026-11-22 15:55:14,264 [INFO] [NEW MATCH] Sr Mgr, Software Engineering (Cribl Detect) at Cribl — https://remoteOK.com/remote-jobs/remote-sr-mgr-software-engineering-cribl-detect-cribl-1137923
+2026-11-22 15:55:14,265 [INFO] [NEW MATCH] Technical Solutions Engineer at Stripe — https://remoteOK.com/remote-jobs/remote-technical-solutions-engineer-stripe-1137922
+2026-11-22 15:55:14,266 [INFO] [NEW MATCH] Senior Applied AI Engineer at Wemolo — https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917
+2026-11-22 15:55:14,268 [INFO] === Run complete: 12 new matches out of 18 filtered ===
