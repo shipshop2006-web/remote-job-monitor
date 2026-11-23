@@ -607,3 +607,9 @@
 2026-11-22 15:55:14,265 [INFO] [NEW MATCH] Technical Solutions Engineer at Stripe — https://remoteOK.com/remote-jobs/remote-technical-solutions-engineer-stripe-1137922
 2026-11-22 15:55:14,266 [INFO] [NEW MATCH] Senior Applied AI Engineer at Wemolo — https://remoteOK.com/remote-jobs/remote-senior-applied-ai-engineer-wemolo-1137917
 2026-11-22 15:55:14,268 [INFO] === Run complete: 12 new matches out of 18 filtered ===
+2026-11-23 19:50:16,237 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-23 19:50:16,881 [INFO] Fetched 100 total job listings from API
+2026-11-23 19:50:16,889 [INFO] Filtered to 18 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-23 19:50:16,889 [INFO] [NEW MATCH] Senior SRE, Site Experience at Reddit — https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975
+2026-11-23 19:50:16,891 [INFO] [NEW MATCH] Sr. Forward Deployed Data Engineer at Natera — https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970
+2026-11-23 19:50:16,894 [INFO] === Run complete: 2 new matches out of 18 filtered ===
