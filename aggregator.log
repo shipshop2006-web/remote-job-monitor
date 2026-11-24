@@ -613,3 +613,10 @@
 2026-11-23 19:50:16,889 [INFO] [NEW MATCH] Senior SRE, Site Experience at Reddit — https://remoteOK.com/remote-jobs/remote-senior-sre-site-experience-reddit-1137975
 2026-11-23 19:50:16,891 [INFO] [NEW MATCH] Sr. Forward Deployed Data Engineer at Natera — https://remoteOK.com/remote-jobs/remote-sr-forward-deployed-data-engineer-natera-1137970
 2026-11-23 19:50:16,894 [INFO] === Run complete: 2 new matches out of 18 filtered ===
+2026-11-24 19:19:52,279 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-24 19:19:53,002 [INFO] Fetched 100 total job listings from API
+2026-11-24 19:19:53,013 [INFO] Filtered to 20 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-24 19:19:53,014 [INFO] [NEW MATCH] Senior Software Engineer, Agentic AI at Clover Health — https://remoteOK.com/remote-jobs/remote-senior-software-engineer-agentic-ai-clover-health-1138070
+2026-11-24 19:19:53,067 [INFO] [NEW MATCH] Senior Software Developer, Agentic AI - Canada at Clover Health — https://remoteOK.com/remote-jobs/remote-senior-software-developer-agentic-ai-canada-clover-health-1138068
+2026-11-24 19:19:53,103 [INFO] [NEW MATCH] Threat Research Engineer, Security Factory: Threat Research at GitLab — https://remoteOK.com/remote-jobs/remote-threat-research-engineer-security-factory-threat-research-gitlab-1138067
+2026-11-24 19:19:53,193 [INFO] === Run complete: 3 new matches out of 20 filtered ===
