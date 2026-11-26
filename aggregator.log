@@ -626,3 +626,10 @@
 2026-11-25 18:25:43,561 [INFO] [NEW MATCH] Senior Software Engineer, AI & Science Platform at Reddit — https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ai-science-platform-reddit-1138093
 2026-11-25 18:25:43,562 [INFO] [NEW MATCH] Senior CX Platform Engineer at GitLab — https://remoteOK.com/remote-jobs/remote-senior-cx-platform-engineer-gitlab-1138075
 2026-11-25 18:25:43,563 [INFO] === Run complete: 2 new matches out of 19 filtered ===
+2026-11-26 18:07:22,308 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-26 18:07:22,775 [INFO] Fetched 100 total job listings from API
+2026-11-26 18:07:22,781 [INFO] Filtered to 16 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-26 18:07:22,781 [INFO] [NEW MATCH] SEO - Manager at Bounteous — https://remoteOK.com/remote-jobs/remote-seo-manager-bounteous-1138148
+2026-11-26 18:07:22,856 [INFO] [NEW MATCH] Knowledge Engineer at Jobgether — https://remoteOK.com/remote-jobs/remote-knowledge-engineer-jobgether-1138105
+2026-11-26 18:07:22,859 [INFO] [NEW MATCH] Intermediate Security Engineer, Security Incident Response Team (SIRT) at GitLab — https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104
+2026-11-26 18:07:22,862 [INFO] === Run complete: 3 new matches out of 16 filtered ===
