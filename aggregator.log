@@ -633,3 +633,12 @@
 2026-11-26 18:07:22,856 [INFO] [NEW MATCH] Knowledge Engineer at Jobgether — https://remoteOK.com/remote-jobs/remote-knowledge-engineer-jobgether-1138105
 2026-11-26 18:07:22,859 [INFO] [NEW MATCH] Intermediate Security Engineer, Security Incident Response Team (SIRT) at GitLab — https://remoteOK.com/remote-jobs/remote-intermediate-security-engineer-security-incident-response-team-sirt-gitlab-1138104
 2026-11-26 18:07:22,862 [INFO] === Run complete: 3 new matches out of 16 filtered ===
+2026-11-27 17:50:15,931 [INFO] === Starting job aggregator run (keywords=['python', 'django', 'fastapi']) ===
+2026-11-27 17:50:16,401 [INFO] Fetched 100 total job listings from API
+2026-11-27 17:50:16,405 [INFO] Filtered to 9 jobs matching keywords ['python', 'django', 'fastapi']
+2026-11-27 17:50:16,406 [INFO] [NEW MATCH] Content Engineer, Developer Documentation at LiveKit — https://remoteOK.com/remote-jobs/remote-content-engineer-developer-documentation-livekit-1138185
+2026-11-27 17:50:16,407 [INFO] [NEW MATCH] Enterprise Sales Engineer - Germany at Datadog — https://remoteOK.com/remote-jobs/remote-enterprise-sales-engineer-germany-datadog-1138184
+2026-11-27 17:50:16,408 [INFO] [NEW MATCH] Staff Compliance Engineer at LiveKit — https://remoteOK.com/remote-jobs/remote-staff-compliance-engineer-livekit-1138183
+2026-11-27 17:50:16,408 [INFO] [NEW MATCH] Senior Energy Markets Analyst, PJM at Voltus — https://remoteOK.com/remote-jobs/remote-senior-energy-markets-analyst-pjm-voltus-1138181
+2026-11-27 17:50:16,409 [INFO] [NEW MATCH] Developer Advocate - Network APIs at aduna — https://remoteOK.com/remote-jobs/remote-developer-advocate-network-apis-aduna-1138170
+2026-11-27 17:50:16,410 [INFO] === Run complete: 5 new matches out of 9 filtered ===
